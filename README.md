@@ -1,6 +1,12 @@
 # legendary-bassoon
 Module 14
+
 Model-View-Controller (MVC) Challenge: Tech Blog
+
+## Things to finish 
+-server file wrap up
+
+-models, config, handlebars, and db finalizing
 
 ## User story
 AS A developer who writes about tech
