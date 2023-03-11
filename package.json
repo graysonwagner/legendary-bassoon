@@ -1,0 +1,23 @@
+{
+  "name": "legendary-bassoon",
+  "version": "0.0.0",
+  "description": "tech blog assignment",
+  "private": true,
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+
+  "author": "grayson",
+  "license": "MIT",
+  "dependencies": 
+
+  {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "express-handlebars": "^6.0.7",
+    "express-session": "^1.17.3",
+    "handlebars": "^4.7.6"
+  }
+}
